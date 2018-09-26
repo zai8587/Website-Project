@@ -11,13 +11,13 @@
 
 /* part1*/
 .bg-part1 {
-  background: #000 url(images/casual.jpg) center center no-repeat;
+  background: #000 url(Images/casual.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg-quote1 {
-  background: url(images/chucks.jpg) center center no-repeat;
+  background: url(Images/chucks.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -26,13 +26,13 @@
 
 /* part2*/
 .bg-part2 {
-  background: #000 url(images/professional.jpg) center center no-repeat;
+  background: #000 url(Images/professional.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg-quote2 {
-  background: url(images/purseitems.jpg) center center no-repeat;
+  background: url(Images/purseitems.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -40,13 +40,13 @@
 
 /* part3*/
 .bg-part3 {
-  background: #000 url(images/whitedresses.jpg) center center no-repeat;
+  background: #000 url(Images/whitedresses.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
 .bg-quote3 {
-  background: url(images/jewelry.jpg) center center no-repeat;
+  background: url(Images/jewelry.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
