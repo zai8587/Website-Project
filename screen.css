@@ -1,0 +1,107 @@
+/**
+ * Custom CSS
+ *
+ * Add this to your Tailwind CSS file,
+ * or to a separate, custom CSS file.
+ *
+ * Update the background images to suit
+ * your project.
+ */
+
+
+/* part1*/
+.bg-part1 {
+  background: #000 url(images/casual.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-quote1 {
+  background: url(images/chucks.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/* part1*/
+
+
+/* part2*/
+.bg-part2 {
+  background: #000 url(images/professional.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-quote2 {
+  background: url(images/purseitems.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/* part2*/
+
+/* part3*/
+.bg-part3 {
+  background: #000 url(images/whitedresses.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-quote3 {
+  background: url(images/jewelry.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/* part3*/
+
+
+/*part4*/
+
+.video-title {
+  background: #000;
+}
+
+@media only screen and (min-width : 768px) {
+  .video-wrapper {
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+    width: 100%;
+  }
+
+  .video-wrapper video {
+    height: 100%;
+    position: absolute;
+      top: 0;
+      left: 0;
+    width: 100%;
+  }
+
+  .video-title {
+    background-color: rgba(251, 13, 172, 0.8);
+    position: absolute;
+      top: 50%;
+      left: 50%;
+    transform: translateX(-50%);
+    z-index: 99;
+  }
+}
+
+/*part4*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
