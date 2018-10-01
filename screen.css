@@ -22,6 +22,10 @@
   background-size: cover;
 }
 
+.bg-orangetransparent{
+  background-color: rgba(255,165,0,.5);
+}
+
 .bg-quote1 {
   background: url(Images/chucks.jpg) center center no-repeat;
   background-attachment: fixed;
@@ -82,7 +86,7 @@
   }
 
   .video-title {
-    background-color: rgba(251, 13, 172, 0.8);
+    background-color: rgba(251, 13, 172, 0.5);
     position: absolute;
       top: 50%;
       left: 50%;
