@@ -12,6 +12,7 @@
 .text-cursive {
   font-family: 'Pacifico', cursive;
 }
+
 /*index*/
 
 
@@ -41,6 +42,9 @@
   background-size: cover;
 }
 
+.bg-purpletransparent{
+  background-color: rgba(147,112,219,0.5);
+}
 .bg-quote2 {
   background: url(Images/purseitems.jpg) center center no-repeat;
   background-attachment: fixed;
@@ -55,6 +59,9 @@
   background-size: cover;
 }
 
+.bg-greytransparent{
+  background-color: rgba(169,169,169,0.5);
+}
 .bg-quote3 {
   background: url(Images/jewelry.jpg) center center no-repeat;
   background-attachment: fixed;
